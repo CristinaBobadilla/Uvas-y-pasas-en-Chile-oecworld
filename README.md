@@ -5,4 +5,6 @@
 
 ## ¿Cuál es la uva de mesa?
 
+![uvademesa.jpg](https://github.com/CristinaBobadilla/Uvas-y-pasas-en-Chile-oecworld/blob/main/uvademesa.jpg)
+
 
