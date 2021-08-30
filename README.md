@@ -7,4 +7,5 @@
 
 ![uvademesa.jpg](https://github.com/CristinaBobadilla/Uvas-y-pasas-en-Chile-oecworld/blob/main/uvademesa.jpg)
 
+*La uva de mesa es una variedad de uva que se consume fresca a diferencia de las uvas para vino y uvas para pasas, que deben pasar por ciertos procesos, también las uvas de mesa tienen menos contenido de azúcares y no es recomendable usarlas para hacer vino.*
 
