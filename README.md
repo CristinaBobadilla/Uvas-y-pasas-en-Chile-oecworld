@@ -22,4 +22,9 @@
 *Existen distintas variedades de pasas dependiendo de la uva que se utilice para su producción, las hay verdosas, negras, marrones, azuladas, moradas y amarillas.
 Entre las variedades de uva sin semillas está la sultanina, la corinto y la flame seedless.*
 
-Según la página web oec.world el producto de uvas (frescas o secas) incluyendo pasas
+## La importancia de las uvas y pasas en Chile 
+
+*Según la página web oec.world el producto de uvas (frescas o secas, incluyendo pasas) fue el producto número 302 más comercializado del mundo, además Chile tiene un puesto realmente importante, ya que en el año **2019** fue uno de los pricipales exportadores superando a EEUU con 1,38 mil millones de dólares*
+*En cuanto a las importaciones, EEUU es el mayor importador de este producto, para ser más especificos, EEUU es el principal importador de uvas producidas en Chile*
+
+
