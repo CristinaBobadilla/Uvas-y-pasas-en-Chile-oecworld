@@ -19,7 +19,14 @@
 *Una pasa es un fruto seco que se obtiene del proceso de secado de una uva, disminuyendo su humedad y logrando su conservación por un tiempo prolongado, incluso se denomina como la fruta de la vida, ya que puede alcanzar los 100 años de edad.*
 *Es muy beneficiosa para el organismo ya que es rica en antioxidantes, previene el estreñimiento, previene la anemia y ralentiza el envejecimiento prematuro de la piel.*
 
-*Existen distintas variedades de pasas dependiendo de la uva que se utilice para su producción, las hay verdosas, negras, marrones, azuladas, moradas y amarillas.
+*Existen distintas variedades de pasas dependiendo de la uva que se utilice para su producción 
+-Las hay verdosas
+-Negras
+-Marrones
+-Azuladas
+-Moradas
+-Amarillas.
+
 Entre las variedades de uva sin semillas está la sultanina, la corinto y la flame seedless.*
 
 ## La importancia de las uvas y pasas en Chile 
@@ -27,4 +34,9 @@ Entre las variedades de uva sin semillas está la sultanina, la corinto y la fla
 *Según la página web oec.world el producto de uvas (frescas o secas, incluyendo pasas) fue el producto número 302 más comercializado del mundo, además Chile tiene un puesto realmente importante, ya que en el año **2019** fue uno de los pricipales exportadores superando a EEUU con 1,38 mil millones de dólares*
 *En cuanto a las importaciones, EEUU es el mayor importador de este producto, para ser más especificos, EEUU es el principal importador de uvas producidas en Chile*
 
+*La importancia de Chile en el mercado de uvas y pasas ha estado siempre presente en la base de datos de la página web oec.world (datos registrados desde 1995), sin embargo ha tomado mayor relevancia a partir del año 2000, empezando quedar en el primer lugar de paises exportadores.*
+
+![oec1.jpg](https://github.com/CristinaBobadilla/Uvas-y-pasas-en-Chile-oecworld/blob/main/oec1.jpg)
+
+En la imagen de arriba se puede ver que, en el año 1995 Italia tiene el primer lugar en exportaciones de uvas.
 
