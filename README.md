@@ -20,12 +20,12 @@
 *Es muy beneficiosa para el organismo ya que es rica en antioxidantes, previene el estreñimiento, previene la anemia y ralentiza el envejecimiento prematuro de la piel.*
 
 *Existen distintas variedades de pasas dependiendo de la uva que se utilice para su producción 
--Las hay verdosas
--Negras
--Marrones
--Azuladas
--Moradas
--Amarillas.
+- Las hay verdosas
+- Negras
+- Marrones
+- Azuladas
+- Moradas
+- Amarillas.
 
 Entre las variedades de uva sin semillas está la sultanina, la corinto y la flame seedless.*
 
