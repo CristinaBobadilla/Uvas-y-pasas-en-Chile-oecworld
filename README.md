@@ -38,5 +38,11 @@ Entre las variedades de uva sin semillas está la sultanina, la corinto y la fla
 
 ![oec1.jpg](https://github.com/CristinaBobadilla/Uvas-y-pasas-en-Chile-oecworld/blob/main/oec1.jpg)
 
-En la imagen de arriba se puede ver que, en el año 1995 Italia tiene el primer lugar en exportaciones de uvas.
+*En la imagen de arriba se puede ver que, en el año 1995 Italia tiene el primer lugar en exportaciones de uvas, puede seleccionar el año que usted desee y el gráfico de rectángulos (que corresponde a los principales exportadores) al lado derecho cambiará.
+Además, también se puede observar que al lado derecho del gráfico antes mencionado, se encuentran los principales importadores de uvas y también cambian al seleccionar una año.
 
+*La página oec.world posee diversos gráficos, otro ejemplo es el que se muestra acontinuación: 
+
+![oec2.png](https://github.com/CristinaBobadilla/Uvas-y-pasas-en-Chile-oecworld/blob/main/oec2.png)
+
+*El gráfico indica el comercio neto mundial del producto de uvas y pasas.
