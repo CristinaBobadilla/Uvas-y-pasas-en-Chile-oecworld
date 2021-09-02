@@ -19,7 +19,7 @@
 *Una pasa es un fruto seco que se obtiene del proceso de secado de una uva, disminuyendo su humedad y logrando su conservación por un tiempo prolongado, incluso se denomina como la fruta de la vida, ya que puede alcanzar los 100 años de edad.*
 *Es muy beneficiosa para el organismo ya que es rica en antioxidantes, previene el estreñimiento, previene la anemia y ralentiza el envejecimiento prematuro de la piel.*
 
-*Existen distintas variedades de pasas dependiendo de la uva que se utilice para su producción 
+*Existen distintas variedades de pasas dependiendo de la uva que se utilice para su producción* 
 - Las hay verdosas
 - Negras
 - Marrones
@@ -27,7 +27,7 @@
 - Moradas
 - Amarillas.
 
-Entre las variedades de uva sin semillas está la sultanina, la corinto y la flame seedless.*
+*Entre las variedades de uva sin semillas está la sultanina, la corinto y la flame seedless.*
 
 ## La importancia de las uvas y pasas en Chile 
 
@@ -38,11 +38,11 @@ Entre las variedades de uva sin semillas está la sultanina, la corinto y la fla
 
 ![oec1.jpg](https://github.com/CristinaBobadilla/Uvas-y-pasas-en-Chile-oecworld/blob/main/oec1.jpg)
 
-*En la imagen de arriba se puede ver que, en el año 1995 Italia tiene el primer lugar en exportaciones de uvas, puede seleccionar el año que usted desee y el gráfico de rectángulos (que corresponde a los principales exportadores) al lado derecho cambiará.
-Además, también se puede observar que al lado derecho del gráfico antes mencionado, se encuentran los principales importadores de uvas y también cambian al seleccionar una año.
+*En la imagen de arriba se puede ver que, en el año 1995 Italia tiene el primer lugar en exportaciones de uvas, puede seleccionar el año que usted desee y el gráfico de rectángulos (que corresponde a los principales exportadores) al lado derecho cambiará.*
+*Además, también se puede observar que al lado derecho del gráfico antes mencionado, se encuentran los principales importadores de uvas y también cambian al seleccionar una año.*
 
-*La página oec.world posee diversos gráficos, otro ejemplo es el que se muestra acontinuación: 
+*La página oec.world posee diversos gráficos, otro ejemplo es el que se muestra acontinuación:* 
 
 ![oec2.png](https://github.com/CristinaBobadilla/Uvas-y-pasas-en-Chile-oecworld/blob/main/oec2.png)
 
-*El gráfico indica el comercio neto mundial del producto de uvas y pasas.
+*El gráfico indica el comercio neto mundial del producto de uvas y pasas.*
