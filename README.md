@@ -61,4 +61,5 @@ En el año 1995 seleccionado, EEUU tiene el primer lugar en exportaciones de uva
 *Sin embargo hay que tener en consideración que el crecimiento de las uvas y otros productos provenientes de la agricultura necesitan ciertas condiciones para su buen crecimiento y calidad, lo que lleva a la reflexión sobre el tema de la contaminación y el cambio climático que afecta al país y al resto del mundo.
 Se sabe que a causa del cambio climático el sector de la agricultura se ha visto afectado, posiblemente los daños hechos al medio ambiente no puedan ser reversibles pero en lo posible es necesario tomar medidas a tiempo, ya que todavía no es tarde para un buen cambio y apreciar los recursos de nuestra tierra.*
 
-🍇 🍇 🍇
+Cristina Bobadilla V.
+🍇 🍇 🍇 🍇 🍇 🍇 🍇
